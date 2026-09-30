@@ -26,6 +26,13 @@
 <br><sub>Featured on KBS News</sub>
 </a>
 </td>
+<td align="center">
+<a href="https://www.qau.edu.pk/">
+<img src="files/qau.png" width="80" height="80" alt="QAU"/>
+<br><strong>Quaid-i-Azam University</strong>
+<br><sub>Islamabad, Pakistan · B.S.</sub>
+</a>
+</td>
 </tr>
 </table>
 
