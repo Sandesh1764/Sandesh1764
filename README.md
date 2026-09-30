@@ -5,30 +5,30 @@
 ### _Affiliations_
 <table>
 <tr>
-<td align="center">
+<td align="center" width="25%">
 <a href="https://robot.jbnu.ac.kr/">
-<img src="files/criir.png" width="80" height="80" alt="CRIIR"/>
+<img src="files/criir.png" width="100" height="100" alt="CRIIR"/>
 <br><strong>Core Research Institute<br>of Intelligent Robots</strong>
 <br><sub>JBNU, South Korea</sub>
 </a>
 </td>
-<td align="center">
+<td align="center" width="25%">
 <a href="https://www.jbnu.ac.kr/">
-<img src="files/jbnu.png" width="80" height="80" alt="JBNU"/>
+<img src="files/jbnu.png" width="100" height="100" alt="JBNU"/>
 <br><strong>Jeonbuk National University</strong>
 <br><sub>South Korea</sub>
 </a>
 </td>
-<td align="center">
+<td align="center" width="25%">
 <a href="https://news.kbs.co.kr/news/pc/view/view.do?ncd=8365296">
-<img src="files/kbs_robot.png" width="80" height="80" alt="Field Robot"/>
+<img src="files/kbs.png" width="100" height="100" alt="KBS"/>
 <br><strong>Field Weeding Robot</strong>
 <br><sub>Featured on KBS News</sub>
 </a>
 </td>
-<td align="center">
+<td align="center" width="25%">
 <a href="https://www.qau.edu.pk/">
-<img src="files/qau.png" width="80" height="80" alt="QAU"/>
+<img src="files/qau.png" width="100" height="100" alt="QAU"/>
 <br><strong>Quaid-i-Azam University</strong>
 <br><sub>Islamabad, Pakistan · B.S.</sub>
 </a>
