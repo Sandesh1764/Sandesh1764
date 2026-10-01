@@ -76,12 +76,22 @@
 
 | Project | Role | Coverage | Paper |
 |---------|------|----------|-------|
-| **Autonomous Crop-Management / Weeding Robot** | Perception & deep-learning stack (co-author) | [📺 KBS News](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8365296) | [📄 CEA 2025](https://doi.org/10.1016/j.compag.2025.110990) |
+| **Autonomous Crop-Management / Weeding Robot** | Perception & deep-learning stack (co-author) | [📺 KBS News](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8365296) · [▶️ Demo](https://www.youtube.com/watch?v=MbpG0fTchuQ) | [📄 CEA 2025](https://doi.org/10.1016/j.compag.2025.110990) |
 
 </div>
 
 Camera → crop/weed perception → pin-precision nozzles → field robot.  
 Covered by **KBS** (Sep 2025): *“제초도 스스로”… 피지컬 AI, 농업에서 성과 낼까?*
+
+### ▶️ System demo
+
+<div align="center">
+
+[![Field robot / pin-precision weeding demo](https://img.youtube.com/vi/MbpG0fTchuQ/hqdefault.jpg)](https://www.youtube.com/watch?v=MbpG0fTchuQ)
+
+**[Watch on YouTube](https://www.youtube.com/watch?v=MbpG0fTchuQ)**
+
+</div>
 
 ---
 
@@ -107,7 +117,7 @@ Covered by **KBS** (Sep 2025): *“제초도 스스로”… 피지컬 AI, 농�
 ### **Field / Robot Systems**
 | Project | Technology | Demo / Links | Status |
 |---------|------------|--------------|--------|
-| **Pin-Precision Weeding Robot** | `PyTorch` `OpenCV` `ROS` `Edge AI` | [📺 KBS](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8365296) · [📄 Paper](https://doi.org/10.1016/j.compag.2025.110990) | ✅ Deployed / Featured |
+| **Pin-Precision Weeding Robot** | `PyTorch` `OpenCV` `ROS` `Edge AI` | [▶️ YouTube](https://www.youtube.com/watch?v=MbpG0fTchuQ) · [📺 KBS](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8365296) · [📄 Paper](https://doi.org/10.1016/j.compag.2025.110990) | ✅ Deployed / Featured |
 | **Real-time Crop–Weed Perception** | `PIDNet` `DeepLab` `KD` | [pidnet-cropweed](https://github.com/Sandesh1764/pidnet-cropweed) | ✅ Released |
 
 ### **Vision Pipelines**
@@ -129,6 +139,7 @@ Covered by **KBS** (Sep 2025): *“제초도 스스로”… 피지컬 AI, 농�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-kumar-77ab25209)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandesh1764)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MbpG0fTchuQ)
 [![Paper](https://img.shields.io/badge/Paper-CEA_2025-2F6FED?style=for-the-badge)](https://doi.org/10.1016/j.compag.2025.110990)
 [![KBS](https://img.shields.io/badge/KBS_News-Field_Robot-E4002B?style=for-the-badge)](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8365296)
 [![Institute](https://img.shields.io/badge/CRIIR-JBNU-004B2B?style=for-the-badge)](https://robot.jbnu.ac.kr/)
